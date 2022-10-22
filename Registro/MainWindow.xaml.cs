@@ -19,10 +19,31 @@ namespace Registro
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
+
     {
+        List<Alunno> classe;
         public MainWindow()
         {
             InitializeComponent();
+
+            List<Alunno> classe = new List<Alunno>();
+            
+        }
+
+        private void btninserisci_Click(object sender, RoutedEventArgs e)
+        {
+            Alunno a = new Alunno(txtNome.Text, txtCognome.Text);
+            classe.Add(a);
+        }
+    }
+    class Alunno
+    {
+        string nome, cognome;
+        
+        public Alunno (string n, string c)
+        {
+            nome = n;
+            cognome = c;
         }
     }
 }
