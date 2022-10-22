@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andrea.boschi\\.nuget\\packages\\": {}
+    "C:\\Users\\matteo.bernardi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andrea.boschi\\source\\repos\\Registro\\Registro\\Registro.csproj",
+      "projectUniqueName": "C:\\Users\\matteo.bernardi\\source\\repos\\Progetto boschi\\Registro\\Registro\\Registro.csproj",
       "projectName": "Registro",
-      "projectPath": "C:\\Users\\andrea.boschi\\source\\repos\\Registro\\Registro\\Registro.csproj",
-      "packagesPath": "C:\\Users\\andrea.boschi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andrea.boschi\\source\\repos\\Registro\\Registro\\obj\\",
+      "projectPath": "C:\\Users\\matteo.bernardi\\source\\repos\\Progetto boschi\\Registro\\Registro\\Registro.csproj",
+      "packagesPath": "C:\\Users\\matteo.bernardi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matteo.bernardi\\source\\repos\\Progetto boschi\\Registro\\Registro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andrea.boschi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matteo.bernardi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

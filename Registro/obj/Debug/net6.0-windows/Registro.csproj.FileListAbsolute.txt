@@ -19,3 +19,24 @@ C:\Users\andrea.boschi\source\repos\Registro\Registro\obj\Debug\net6.0-windows\r
 C:\Users\andrea.boschi\source\repos\Registro\Registro\obj\Debug\net6.0-windows\Registro.pdb
 C:\Users\andrea.boschi\source\repos\Registro\Registro\obj\Debug\net6.0-windows\Registro.genruntimeconfig.cache
 C:\Users\andrea.boschi\source\repos\Registro\Registro\obj\Debug\net6.0-windows\ref\Registro.dll
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\bin\Debug\net6.0-windows\Registro.exe
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\bin\Debug\net6.0-windows\Registro.deps.json
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\bin\Debug\net6.0-windows\Registro.runtimeconfig.json
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\bin\Debug\net6.0-windows\Registro.dll
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\bin\Debug\net6.0-windows\Registro.pdb
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.csproj.AssemblyReference.cache
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro_MarkupCompile.cache
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro_MarkupCompile.lref
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.g.resources
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.AssemblyInfoInputs.cache
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.AssemblyInfo.cs
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.csproj.CoreCompileInputs.cache
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.dll
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\refint\Registro.dll
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.pdb
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\Registro.genruntimeconfig.cache
+C:\Users\matteo.bernardi\source\repos\Progetto boschi\Registro\Registro\obj\Debug\net6.0-windows\ref\Registro.dll

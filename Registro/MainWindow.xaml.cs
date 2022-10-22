@@ -26,7 +26,7 @@ namespace Registro
         {
             InitializeComponent();
 
-            List<Alunno> classe = new List<Alunno>();
+            classe = new List<Alunno>();
             
         }
 
@@ -34,6 +34,20 @@ namespace Registro
         {
             Alunno a = new Alunno(txtNome.Text, txtCognome.Text);
             classe.Add(a);
+        }
+
+        private void btnVisualizza_Click(object sender, RoutedEventArgs e)
+        {
+            foreach (Alunno a in classe)
+            {
+                lstNome.Items.Add(a.Stampa());
+            }
+        }
+
+        private void btnElimina_Click(object sender, RoutedEventArgs e)
+        {
+            classe.RemoveAt(0);
+            lstNome.Items.Clear();
         }
     }
     class Alunno
@@ -45,5 +59,11 @@ namespace Registro
             nome = n;
             cognome = c;
         }
+
+        public string Stampa()
+        {
+            return nome + " " + cognome;
+        }
     }
 }
+ 
